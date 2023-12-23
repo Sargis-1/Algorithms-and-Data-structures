@@ -1,3 +1,0 @@
-﻿  RootingCenteringIsomorphismTrees.cpp
-D:\datastructuresimplementations\RootingCenteringIsomorphismTrees\RootingCenteringIsomorphismTrees\RootingCenteringIsomorphismTrees.cpp(123,33): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  RootingCenteringIsomorphismTrees.vcxproj -> D:\datastructuresimplementations\RootingCenteringIsomorphismTrees\x64\Debug\RootingCenteringIsomorphismTrees.exe

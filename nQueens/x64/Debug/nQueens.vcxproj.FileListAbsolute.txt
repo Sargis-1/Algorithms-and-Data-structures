@@ -1,1 +1,0 @@
-D:\datastructuresimplementations\nQueens\x64\Debug\nQueens.exe
