@@ -1,0 +1,4 @@
+﻿  SortingAlgorithms.cpp
+D:\datastructuresimplementations\SortingAlgorithms\SortingAlgorithms.cpp(60,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\SortingAlgorithms\SortingAlgorithms.cpp(236,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SortingAlgorithms.vcxproj -> D:\datastructuresimplementations\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe

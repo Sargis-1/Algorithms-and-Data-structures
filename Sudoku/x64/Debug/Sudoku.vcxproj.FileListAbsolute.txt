@@ -1,0 +1,2 @@
+D:\datastructuresimplementations\Sudoku\x64\Debug\Sudoku.exe
+D:\Admin\datastructuresimplementations\Sudoku\x64\Debug\Sudoku.exe

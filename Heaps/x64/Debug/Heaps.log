@@ -1,0 +1,29 @@
+﻿  Heaps.cpp
+D:\datastructuresimplementations\Heaps\Heaps.cpp(87,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(88,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(98,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(99,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(24,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(20,1): message : во время компиляции функции-члена класс шаблон "T priorityqueue<T>::extractmax(void)"
+          with
+          [
+              T=int
+          ]
+D:\datastructuresimplementations\Heaps\Heaps.cpp(126,18): message : выполняется компиляция ссылки на экземпляр шаблон функции "T priorityqueue<T>::extractmax(void)"
+          with
+          [
+              T=int
+          ]
+D:\datastructuresimplementations\Heaps\Heaps.cpp(114,24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "priorityqueue<int>"
+D:\datastructuresimplementations\Heaps\Heaps.cpp(17,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\datastructuresimplementations\Heaps\Heaps.cpp(15,1): message : во время компиляции функции-члена класс шаблон "bool priorityqueue<int>::insert(T)"
+          with
+          [
+              T=int
+          ]
+D:\datastructuresimplementations\Heaps\Heaps.cpp(116,18): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool priorityqueue<int>::insert(T)"
+          with
+          [
+              T=int
+          ]
+  Heaps.vcxproj -> D:\datastructuresimplementations\Heaps\x64\Debug\Heaps.exe
